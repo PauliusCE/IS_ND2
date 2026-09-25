@@ -1,0 +1,13 @@
+,width_substrate_mm,width_imp_line_mm,length_imp_line_mm,substrate_height_mm,patch_height_mm,width_slot_mm,length_slot_mm,patch_width_mm,substrate_length_mm,patch_length_mm,frequency_GHz,S11_dB
+width_substrate_mm,1.0,,0.727,,,0.685,-0.0611,0.0,-0.0891,0.1287,-0.0,0.108
+width_imp_line_mm,,,,,,,,,,,,
+length_imp_line_mm,0.727,,1.0,,,0.6981,-0.0885,0.0,-0.0444,0.0861,-0.0,0.1183
+substrate_height_mm,,,,,,,,,,,,
+patch_height_mm,,,,,,,,,,,,
+width_slot_mm,0.685,,0.6981,,,1.0,-0.0291,-0.0,0.0849,-0.0041,-0.0,0.1258
+length_slot_mm,-0.0611,,-0.0885,,,-0.0291,1.0,-0.0,0.0602,-0.1316,0.0,0.0731
+patch_width_mm,0.0,,0.0,,,-0.0,-0.0,1.0,-0.0,-0.0,-0.0,0.0014
+substrate_length_mm,-0.0891,,-0.0444,,,0.0849,0.0602,-0.0,1.0,-0.2479,-0.0,0.0035
+patch_length_mm,0.1287,,0.0861,,,-0.0041,-0.1316,-0.0,-0.2479,1.0,0.0,-0.02
+frequency_GHz,-0.0,,-0.0,,,-0.0,0.0,-0.0,-0.0,0.0,1.0,-0.1973
+S11_dB,0.108,,0.1183,,,0.1258,0.0731,0.0014,0.0035,-0.02,-0.1973,1.0

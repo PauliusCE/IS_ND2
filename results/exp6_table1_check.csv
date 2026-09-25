@@ -1,0 +1,11 @@
+parameter,Table 1,in dataset,dataset values
+substrate_length_mm,40.0,yes,"38, 39, 40, 41, 42"
+width_substrate_mm,42.0,yes,"41, 42, 43, 44, 45"
+width_imp_line_mm,3.0,yes,3
+substrate_height_mm,1.6,yes,1.6
+patch_height_mm,0.035,yes,0.035
+patch_length_mm,29.3,yes,"28.0, 29.3"
+width_slot_mm,2.0,yes,"1, 2, 4, 5"
+length_slot_mm,7.0,yes,"5, 6, 7, 8, 9, 10"
+patch_width_mm,42.0,yes,"40, 41, 42, 43, 44"
+length_imp_line_mm,11.0,NO,"3, 4, 5, 6, 7, 8, 9, 10"
